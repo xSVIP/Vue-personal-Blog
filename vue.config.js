@@ -75,7 +75,7 @@ module.exports = {
       // .end()
       // vue-cli 4.x版本需要进行以下配置
       .rule('images')
-      .test(/\.(png|jpe?g|gif|webp)(\?.*)?$/)
+      .test(/\.(png|jpe?g|gif|webp|svg)(\?.*)?$/)
       .use('url-loader')
       .loader(require.resolve('url-loader'))
       .options({
