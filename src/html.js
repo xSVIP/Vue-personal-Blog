@@ -17,7 +17,7 @@ const HTML = `
 }
 </style>
 <div id="root">
-<div class="title">欢迎来到我的个人小站🎈🎈</div>
+<div class="title">欢迎来到数码小圈！</div>
 <div class="title">已完成的功能如下🤣</div>
 <ul>
   <li>👌用户登录注册啊😉</li>
